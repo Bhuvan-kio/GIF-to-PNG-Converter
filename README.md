@@ -5,7 +5,13 @@ A simple and efficient Python script that extracts every frame from an animated 
 ---
 ## 🚀 Demo
 
-![GIF Maker Demo](https://raw.githubusercontent.com/Bhuvan-kio/GIF-Maker/refs/heads/main/Output.gif) --> (https://raw.githubusercontent.com/Bhuvan-kio/GIF-to-PNG-Converter/refs/heads/main/PNGs/frame_000.png)
+This script converts an animation like this:
+
+![Input GIF](https://raw.githubusercontent.com/Bhuvan-kio/GIF-Maker/main/Output.gif)
+
+Into a sequence of individual frames, like this sample frame:
+
+![Sample Output PNG](https://raw.githubusercontent.com/Bhuvan-kio/GIF-to-PNG-Converter/main/PNGs/frame_000.png)
 
 ---
 ## ✨ Features
