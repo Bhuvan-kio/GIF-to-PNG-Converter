@@ -3,7 +3,11 @@
 A simple and efficient Python script that extracts every frame from an animated GIF and saves each one as a separate, sequentially-named PNG file.
 
 ---
+## 🚀 Demo
 
+![GIF Maker Demo](https://raw.githubusercontent.com/Bhuvan-kio/GIF-Maker/refs/heads/main/Output.gif) --> (https://raw.githubusercontent.com/Bhuvan-kio/GIF-to-PNG-Converter/refs/heads/main/PNGs/frame_000.png)
+
+---
 ## ✨ Features
 
 -   **Frame Extraction**: Converts any animated GIF into a full sequence of PNG images.
