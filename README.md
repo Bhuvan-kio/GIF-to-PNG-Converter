@@ -1,9 +1,9 @@
-# 🖼️ GIF to PNG Frame Extractor
+# GIF to PNG Frame Extractor
 
 A simple and efficient Python script that extracts every frame from an animated GIF and saves each one as a separate, sequentially-named PNG file.
 
 ---
-## 🚀 Demo
+## Demo
 
 This script converts an animation like this:
 
@@ -14,7 +14,7 @@ Into a sequence of individual frames, like this sample frame:
 ![Sample Output PNG](https://raw.githubusercontent.com/Bhuvan-kio/GIF-to-PNG-Converter/main/PNGs/frame_000.png)
 
 ---
-## ✨ Features
+## Features
 
 -   **Frame Extraction**: Converts any animated GIF into a full sequence of PNG images.
 -   **Automated Folder Creation**: Automatically creates the output directory if it doesn't already exist.
@@ -35,7 +35,7 @@ Before you begin, ensure you have Python 3 and the Pillow library installed on y
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1.  **Place Your GIF**: Have your input GIF file ready (e.g., `my_animation.gif`).
 
@@ -43,7 +43,7 @@ Before you begin, ensure you have Python 3 and the Pillow library installed on y
 
     ```python
     # --- Configuration ---
-    # ❗️ EDIT THESE VALUES
+    #  EDIT THESE VALUES
 
     # Set the path to your input GIF file.
     input_gif = "path/to/your/animation.gif"
@@ -62,6 +62,6 @@ The script will create the specified output folder and populate it with all the 
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
