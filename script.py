@@ -35,7 +35,7 @@ def gif_to_png(gif_path, output_folder):
         print(f"An error occurred: {e}")
 
 # --- Configuration ---
-# ❗️ EDIT THESE VALUES
+# EDIT THESE VALUES
 # Set the path to your input GIF file.
 input_gif = "path/to/your/animation.gif"
 
